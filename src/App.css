@@ -1,0 +1,45 @@
+.container {
+	background-color: #96d1c7;
+}
+
+.taskRow {
+	padding-bottom: 20px;
+}
+
+.title {
+	padding: 4% 0 4%;
+}
+
+h1 {
+	font-family: "Sacramento", cursive;
+	text-align: center;
+	font-size: 75px;
+}
+
+.remaining {
+	padding-top: 30px;
+	padding-bottom: 20px;
+	text-align: center;
+}
+
+.sun {
+	width: 200px;
+	padding-top: 30px;
+	padding-left: 50px;
+}
+
+.palm {
+	width: 150px;
+	padding-top: 50px;
+	padding-left: 50px;
+}
+
+.ski {
+	width: 150px;
+	padding-top: 50px;
+	padding-left: 50px;
+}
+
+.completedTask {
+	text-decoration: line-through;
+}
